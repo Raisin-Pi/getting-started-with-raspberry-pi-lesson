@@ -6,7 +6,7 @@ Toute contribution sera considérée comme appartenant à la même type de licen
 
 Si vous trouvez une erreur, bug ou un autre problème, veuillez [open an issue](https://github.com/tyrower/getting-started-with-raspberry-pi-lesson/issues) dans ce repertoire.
 
-##  D emande de tirage (Pull Requests)
+##  Demande de tirage (Pull Requests)
 
 If you fix a mistake, bug or problem or have something to contribute, please create a pull request for each modification. Please consider grouping modifications sensibly, i.e. don't bundle typo fixes in the same pull request as code changes, instead file them separately.
 
