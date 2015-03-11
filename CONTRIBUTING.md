@@ -1,12 +1,12 @@
-# Contributing
+# Contribuer (Contributing)
 
-All contributions are assumed to be licensed under the same license as the source, i.e. [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/). This license must remain in all derivatives of this work.
+Toute contribution sera considérée comme appartenant à la même type de licence que la source, autrement dit [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/). Cette licence doit rester dans toute version derivée de cet oeuvre.
 
-## Issues
+## Anomalies (Issues)
 
-If you find a mistake, bug or other problem, please [open an issue](https://github.com/raspberrypilearning/getting-started-with-raspberry-pi-lesson/issues) in this repository.
+Si vous trouvez une erreur, bug ou un autre problème, veuillez [open an issue](https://github.com/tyrower/getting-started-with-raspberry-pi-lesson/issues) dans ce repertoire.
 
-## Pull Requests
+##  D emande de tirage (Pull Requests)
 
 If you fix a mistake, bug or problem or have something to contribute, please create a pull request for each modification. Please consider grouping modifications sensibly, i.e. don't bundle typo fixes in the same pull request as code changes, instead file them separately.
 
