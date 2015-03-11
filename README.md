@@ -1,8 +1,8 @@
-# Démarrer avec le Raspberry Pi
+# Comment démarrer avec le Raspberry Pi
 
 ![](cover.png)
 
-Cette leçon a été conçue comme étant une présentation initiale du Raspberry Pi. It could be taught as a standalone lesson, as a workshop, or as part of a wider scheme of work to introduce students to Raspberry Pi and explain its main features and setup.
+Cette leçon a été conçue comme une présentation initiale du Raspberry Pi. La leçon peut être enseignée comme un cours à part entière, comme une démonstration, un atelier ou en tant qu'élément d'un plan de travail plus large pour que les eleves se familiarisent avec le Raspberry Pi, afin d'expliquer ses fonctionnalités principales et sa mise en route. 
 
 ## Students will learn:
 
