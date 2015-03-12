@@ -1,24 +1,24 @@
-# Comment démarrer avec le Raspberry Pi
+## Comment démarrer avec le Raspberry Pi
 
 ![](cover.png)
 
 Cette leçon a été conçue comme une présentation initiale du Raspberry Pi. La leçon peut être enseignée comme un cours à part entière, comme une démonstration, un atelier ou en tant qu'élément d'un plan de travail plus large pour que les eleves se familiarisent avec le Raspberry Pi, afin d'expliquer ses fonctionnalités principales et sa mise en route. 
 
-## Students will learn:
+## L'éleve découvrira :
 
-In this lesson, students will learn
+Dans cette leçon, les éleves découvrent
 
-- What a Raspberry Pi is
-- Its main features
-- How to set up and use one
+- Ce que c'est un Raspberry Pi
+- Ses fonctionnnalités principales
+- Comment mettre en route et se servir d'un Raspberry Pi
 
-## Computing programme of study met:
+## Cycles d'études rencontrés :
 
-### KS2
+### CE1 - CE2 - CM1 - CM2
 
 - Recognise that a range of digital devices can be considered to be a computer. Recognise and can use a range of input and output devices.
 
-### KS3
+### Collège
 
 - Understand the hardware and software components that make up computer systems, and how they communicate with one another and with other systems.
 - Recognise and understand the function of the main internal parts of basic computer architecture.
