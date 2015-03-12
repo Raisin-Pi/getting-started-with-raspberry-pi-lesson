@@ -4,19 +4,19 @@
 
 Cette leçon a été conçue comme une présentation initiale du Raspberry Pi. La leçon peut être enseignée comme un cours à part entière, comme une démonstration, un atelier ou en tant qu'élément d'un plan de travail plus large pour que les eleves se familiarisent avec le Raspberry Pi, afin d'expliquer ses fonctionnalités principales et sa mise en route. 
 
-## L'éleve découvrira :
+## Les élèves découvriront :
 
-Dans cette leçon, les éleves découvrent
+Dans cette leçon, l'élèves découvre
 
 - Ce que c'est un Raspberry Pi
 - Ses fonctionnnalités principales
 - Comment mettre en route et se servir d'un Raspberry Pi
 
-## Cycles d'études rencontrés :
+## Cycles d'études adaptés :
 
 ### CE1 - CE2 - CM1 - CM2
 
-- Recognise that a range of digital devices can be considered to be a computer. Recognise and can use a range of input and output devices.
+- Reconnaître le fait qu'un ensemble d'éléments numériques peut être considéré comme un ordinateur. Reconnaître et utiliser divers périphériques d'entrée et sortie.
 
 ### Collège
 
