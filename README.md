@@ -23,7 +23,7 @@ Dans cette leçon, l'élève découvre
 - Comprendre les éléments materiel et logiciel qui forment ensemble un système informatique/ordinateur, et comment ils communiquent entre eux et avec d'autres systèmes.
 - Reconnaitre et comprendre le fonctionnement des prinipaux composants internes dans l'architecture basique d'un ordinateur.
 
-[National Curriculum Computing Programmes of Study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
+[Le brevet informatique et internet (B2i) école-collège-lycée et CFA : les référentiels](http://eduscol.education.fr/cid46073/b2i.html)
 
 ## Ressources
 
