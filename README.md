@@ -6,7 +6,7 @@ Cette leçon a été conçue comme une présentation initiale du Raspberry Pi. L
 
 ## Les élèves découvriront :
 
-Dans cette leçon, l'élèves découvre
+Dans cette leçon, l'élève découvre
 
 - Ce que c'est un Raspberry Pi
 - Ses fonctionnnalités principales
@@ -20,34 +20,33 @@ Dans cette leçon, l'élèves découvre
 
 ### Collège
 
-- Understand the hardware and software components that make up computer systems, and how they communicate with one another and with other systems.
-- Recognise and understand the function of the main internal parts of basic computer architecture.
+- Comprendre les éléments materiel et logiciel qui forment ensemble un système informatique/ordinateur, et comment ils communiquent entre eux et avec d'autres systèmes.
+- Reconnaitre et comprendre le fonctionnement des prinipaux composants internes dans l'architecture basique d'un ordinateur.
 
 [National Curriculum Computing Programmes of Study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
 
-## Resources
+## Ressources
 
-For the majority of the lesson, it is suggested that work is carried out by students on a Raspberry Pi in pairs. Each pair should have access to the standard equipment described below. In addition, it is suggested that you have your own teacher setup connected to a projector screen for demonstration purposes.
+Pour la grande partie de cette leçon, il est conseillé que le travail se fasse en binome avec un Raspberry Pi. Chaque paire d'élèves devrait avoir accès au matériel standard décrit ci-dessous. En plus, il est suggéré d'avoir votre propre installation de professeur reliée à un projecteur et écran pour pouvoir faire des démonstrations.
 
-- A Raspberry Pi per pair
-- A NOOBS SD card per Raspberry Pi (with an up-to-date Raspbian installed)
-- A keyboard and mouse connected to each Raspberry Pi
-- A monitor connected to each Raspberry Pi
-- A micro USB power adaptor
-- All necessary cables
+- Un Raspberry Pi pour deux élèves
+- Une carte (micro) SD NOOBS par Raspberry Pi (avec une version à jour de Raspbian installée)
+- Un clavier et une souris branchés sur chaque Raspberry Pi
+- Un écran connecté à chaque Raspberry Pi
+- Une alimentation micro USB
+- Tous les câbles requis
 
-See [raspberrypi.org/downloads](http://www.raspberrypi.org/downloads/) to download NOOBS/Raspbian and see the [NOOBS setup guide](http://www.raspberrypi.org/help/noobs-setup/) for help with installation.
+Voir [raspberrypi.org/downloads](http://www.raspberrypi.org/downloads/) pour télécharger NOOBS/Raspbian et voir également [NOOBS setup guide](http://www.raspberrypi.org/help/noobs-setup/) pour assistance avec l'installation.
 
-## Lesson
+## Leçon
 
-- [Lesson 1 - Getting Started with Raspberry Pi](lesson-1/lesson.md)
+- [Leçon 1 - Comment démarrer avec le Raspberry Pi](lesson-1/lesson.md)
 
 ## Licence
 
-Unless otherwise specified, everything in this repository is covered by the following licence:
-
+Sauf autres précisions, tout ce qui se trouve dans cet répertoire est couvert par la licence suivante :
 ![Creative Commons Attribution 4.0 International Licence](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-***Getting Started with Raspberry Pi Lesson*** by the [Raspberry Pi Foundation](http://www.raspberrypi.org) is licenced under a [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
+***Comment démarrer avec le Raspberry Pi (v.o. Getting Started with Raspberry Pi Lesson)*** par la [Raspberry Pi Foundation](http://www.raspberrypi.org) est crée sous une licence [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Based on a work at https://github.com/raspberrypilearning/getting-started-with-raspberry-pi-lesson
+Basé sur le matériel disponible à https://github.com/raspberrypilearning/getting-started-with-raspberry-pi-lesson
