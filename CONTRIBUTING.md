@@ -4,7 +4,7 @@ Toute contribution sera considérée comme appartenant à la même type de licen
 
 ## Anomalies (Issues)
 
-Si vous trouvez une erreur, bug ou un autre problème, veuillez [open an issue](https://github.com/tyrower/getting-started-with-raspberry-pi-lesson/issues) dans ce repertoire.
+Si vous trouvez une erreur, bug ou un autre problème, veuillez [open an issue](https://github.com/Raisin-Pi/getting-started-with-raspberry-pi-lesson/issues) dans ce repertoire.
 
 ##  Demande de tirage (Pull Requests)
 
