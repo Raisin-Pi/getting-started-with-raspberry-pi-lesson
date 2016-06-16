@@ -8,7 +8,7 @@ Nous allons discuter de la nature générale de l'informatique et comment le mê
 
 - Connaître l'architecture de base d'un dispositif informatique.
 - Comprendre la différence entre le matériel et le logiciel.
-- Être en mesure d'installer un Raspberry Pi, le démarrer, charger l'interface graphique, et naviguer dans le bureau pour la première fois.
+- Être en mesure d'installer un Raspberry Pi, le démarrer, charger l'interface utilisateur graphique, et naviguer dans le bureau pour la première fois.
 
 ## Connaissances acquises
 
@@ -18,29 +18,29 @@ Nous allons discuter de la nature générale de l'informatique et comment le mê
 - Comprendre que les ordinateurs sont des appareils à usage général, et que chaque ordinateur est différent.
 - Identifier l'architecture de base d'un ordinateur: processeur, stockage et les entrées/sorties.
 
-**Most students are able to:**
+**La plupart des étudiants sont en mesure de:**
 
-- Set up a Raspberry Pi for the first time, log in, and load the graphical user interface.
-- Identify different types of computers and explain what makes them a computer.
-- Understand basic architecture of a computer: processor, storage, and input/output.
+- Installer un Raspberry Pi pour la première fois, se connecter, et charger l'interface utilisateur graphique.
+- Identifier les différents types d'ordinateurs et d'expliquer ce qui en fait des ordinateurs.
+- Identifier l'architecture de base d'un ordinateur: processeur, stockage et les entrées/sorties.
 
-**Some students are able to:**
+**Certains étudiants sont en mesure de:**
 
-- Set up a Raspberry Pi, log in, and load the graphical user interface without assistance.
-- Explain, with examples, the similarities and differences of a Raspberry Pi compared with a personal computer.
+- Installer un Raspberry Pi, se connecter, et charger l'interface utilisateur graphique sans assistance.
+- Expliquer, avec des exemples, les similitudes et les différences d'un Raspberry Pi par rapport à un ordinateur personnel.
 
-## Lesson summary
+## Résumé de la leçon
 
-- An introduction to the basic physical parts of a Raspberry Pi
-- An introduction to two types of computer interface:
-	- command line
-	- graphical
+- Une introduction aux parties physiques de base d'un Raspberry Pi
+- Une introduction aux deux types d'interface d'ordinateur:
+	- ligne de commande
+	- graphique
 
-## Starter
+## Débuter
 
-Distribute the [computing device cards](files/Computing-Device-Card-Sort.zip) to pairs of students. Ask them to match the device to the description. Then ask students to create two piles: one for devices that they think are a type of computer, and one for devices they do not think are types of computers.
+Distribuez les [Les cartes de dispositif informatique](files/Computing-Device-Card-Sort.zip) à des paires d'étudiants. Demandez-leur de faire correspondre le dispositif à la description. Ensuite, demandez aux élèves de créer deux piles: une pour les dispositifs qu'ils jugent comme un type d'ordinateur, et un pour les appareils qu'ils ne pensent pas être des types d'ordinateurs.
 
-After a few minutes discuss the outcomes of this task with the class. Note that all the cards are types of computing devices! Draw on students answers to discuss what makes a computer.
+Après quelques minutes, discuter des résultats de cette exercice avec la classe. Notez que toutes les cartes sont des types de dispositifs informatiques! Inspirez vous des réponses des élèves pour discuter de ce qui fait un ordinateur.
 
 ## Main development
 
