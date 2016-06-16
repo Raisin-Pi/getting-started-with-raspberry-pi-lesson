@@ -1,5 +1,5 @@
-In this lesson, students will learn
+Dans cette leçon, les élèves apprendront
 
-- What a Raspberry Pi is
-- Its main features
-- How to set up and use one
+- Qu'est-ce qu'un Raspberry Pi
+- Ses principales caractéristiques
+- Comment en installer et en utiliser un
