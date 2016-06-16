@@ -4,19 +4,19 @@ Le Raspberry Pi est un petit ordinateur plus petit qu'un paquet de cartes, qui p
 
 Nous allons discuter de la nature générale de l'informatique et comment le même ordinateur peut être programmé pour faire simultanément beaucoup de choses différentes, du traitement de texte à la musique électronique. Enfin, nous allons introduire le principe le plus fondamental de la programmation: un programme comme une séquence d'instructions.
 
-## Learning objectives
+## Objectifs d'apprentissage
 
-- Know the basic architectures of a computing device.
-- Understand the difference between hardware and software.
-- Be able to set up a Raspberry Pi, turn it on, load the graphical user interface, and navigate the desktop for the first time.
+- Connaître l'architecture de base d'un dispositif informatique.
+- Comprendre la différence entre le matériel et le logiciel.
+- Être en mesure d'installer un Raspberry Pi, le démarrer, charger l'interface graphique, et naviguer dans le bureau pour la première fois.
 
-## Learning outcomes
+## Connaissances acquises
 
-**All students are able to:**
+**Tous les étudiants sont en mesure de :**
 
-- Plug the components of a Raspberry Pi together.
-- Understand that computers are general-purpose devices, and that not every computer obviously resembles one.
-- Identify the basic architecture of a computer: processor, storage, and input/output.
+- Branchez les composants d'un Raspberry Pi.
+- Comprendre que les ordinateurs sont des appareils à usage général, et que chaque ordinateur est différent.
+- Identifier l'architecture de base d'un ordinateur: processeur, stockage et les entrées/sorties.
 
 **Most students are able to:**
 
