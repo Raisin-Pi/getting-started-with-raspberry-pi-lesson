@@ -1,8 +1,8 @@
-# Lesson 1 - Getting started with Raspberry Pi
+# Leçon 1 - Bien débuter avec le Raspberry Pi
 
-The Raspberry Pi is a tiny computer smaller than a pack of cards, which can transform the way we perceive and approach computation. In this lesson we will introduce the basic components of the Raspberry Pi and how they relate to a traditional computer.
+Le Raspberry Pi est un petit ordinateur plus petit qu'un paquet de cartes, qui peut modifier la façon dont nous percevons et abordons l'informatique. Dans cette leçon, nous allons présenter les composants de base du Raspberry Pi et à quoi il se rapportent dans un ordinateur traditionnel.
 
-We will discuss the general nature of computation and how the same computer can be programmed to simultaneously do many different things, from word processing to music synthesis. Finally, we will introduce the most basic principle of programming: a program as a sequence of instructions.
+Nous allons discuter de la nature générale de l'informatique et comment le même ordinateur peut être programmé pour faire simultanément beaucoup de choses différentes, du traitement de texte à la musique électronique. Enfin, nous allons introduire le principe le plus fondamental de la programmation: un programme comme une séquence d'instructions.
 
 ## Learning objectives
 
