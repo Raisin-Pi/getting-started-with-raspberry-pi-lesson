@@ -1,1 +1,1 @@
-This lesson has been designed as an introduction to the Raspberry Pi. It could be taught as a standalone lesson, as a workshop, or as part of a wider scheme of work to introduce students to Raspberry Pi and explain its main features and setup.
+Cette leçon a été conçu comme une introduction au Raspberry Pi. Elle pourrait être enseignée comme une leçon autonome, comme un atelier, ou dans le cadre d'un programme plus large de travail pour initier les élèves au Raspberry Pi et expliquer ses principales caractéristiques et sa configuration.
