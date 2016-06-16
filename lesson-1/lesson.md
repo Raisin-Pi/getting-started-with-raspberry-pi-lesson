@@ -66,22 +66,22 @@ Après quelques minutes, discuter des résultats de cette exercice avec la class
 
 	Expliquez que ceci est un logiciel. Le logiciel est le terme donné à des programmes qui fonctionnent sur le système informatique et font fonctionner le matériel. Le logiciel a de nombreuses utilisations, telles que la réalisation d'un calcul ou l'organisation des fichiers. Il existe deux principaux types de logiciels: le logiciel système qui fonctionne et gère votre ordinateur, et le logiciel d'application qui effectue une tâche ou une fonction spécifique.
 
-1. Distribute equipment to students and ask them to set up their own Raspberry Pis. Distribute the power supplies last, checking that students have connected their cables and SD cards correctly before they are powered up.
+1. Distribuez le matériel aux élèves et leur demander de mettre en place leur propre Raspberry Pi. Distribuez les alimentations à la fin, vérifier que les élèves aient relié leurs câbles et cartes SD correctement avant qu'ils ne soient mis sous tension.
 
-1. Ask students to log in to their Pis for the first time using the following login information:
+1. Demandez aux élèves de se connecter à leur Pis pour la première fois en utilisant les informations d'identification suivantes:
 
 	```
 	Login: pi
 	password: raspberry
 	```
 
-	Note that students will not see any text when typing the password but assure them it is working. Why do they think this might be the case? *Hint: what might happen if someone was looking over their shoulder?*
+	Notez que les étudiants ne verront pas de texte lors de la saisie du mot de passe, mais assuez-les qu'il fonctionne. Pourquoi pensent-ils que cela soit ainsi ? * Astuce: ce qui pourrait arriver si quelqu'un regardait par-dessus leur épaule?*
 
-	Once logged in, explain to the students that they can give instructions to the Raspberry Pi using the **command line interface**.
+	Une fois connecté, expliquez aux élèves qu'ils peuvent donner des instructions au Raspberry Pi en utilisant l'"interface de ligne de commande".
 
-1. Load the graphical user interface by typing `startx`.
+1. Charger l'interface utilisateur graphique en tapant `startx`.
 
-	Explain to the students that they have now loaded the **Graphical User Interface** or GUI of the operating system. Ask them to identify any parts that they recognise such as the desktop, task bar, menu system, mouse pointer, icons, etc.
+	Expliquez aux élèves qu'ils ont maintenant chargés l'"Interface utilisateur graphique" ou GUI du système d'exploitation. Demandez-leur d'identifier toutes les parties qu'ils reconnaissent comme le bureau, la barre des tâches, le système de menu, le pointeur de la souris, les icônes, etc..
 
 1. As an extension task, ask students to compare a Raspberry Pi to a desktop computer. What are the similarities? What are the differences? In what situations could you use a Raspberry Pi instead of a desktop computer? (e.g. in a weather station)
 
