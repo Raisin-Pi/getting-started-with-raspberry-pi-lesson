@@ -83,16 +83,16 @@ Après quelques minutes, discuter des résultats de cette exercice avec la class
 
 	Expliquez aux élèves qu'ils ont maintenant chargés l'"Interface utilisateur graphique" ou GUI du système d'exploitation. Demandez-leur d'identifier toutes les parties qu'ils reconnaissent comme le bureau, la barre des tâches, le système de menu, le pointeur de la souris, les icônes, etc..
 
-1. As an extension task, ask students to compare a Raspberry Pi to a desktop computer. What are the similarities? What are the differences? In what situations could you use a Raspberry Pi instead of a desktop computer? (e.g. in a weather station)
+1. Pour aller plus loin, demandez aux élèves de comparer un Raspberry Pi à un ordinateur de bureau. Quelles sont les similitudes? Quelles sont les différences? Dans quelles situations pourriez-vous utiliser un Raspberry Pi au lieu d'un ordinateur de bureau? (Par exemple dans une station météorologique)
 
-## Plenary
+## Plénière
 
-Students are to label a Raspberry Pi to include:
+Les élèves doivent étiqueter un Raspberry Pi pour décrire:
 
-- all inputs (and where they connect to the Pi)
-- all outputs (and where they connect to the Pi)
-- processor
-- storage (i.e. where the SD card goes)
-- power.
+- toutes les entrées (et où elles se connectent au Pi)
+- toutes les sorties (et où ils se connectent au Pi)
+- processeur
+- stockage (à savoir où la carte SD va)
+- Alimentation.
 
-This could be completed with sticky notes, a hand drawn diagram on paper, or on a computer using shapes and call out boxes.
+Cela pourrait être complété par des notes autocollantes, un schéma dessiné à la main sur papier, ou sur un ordinateur.
