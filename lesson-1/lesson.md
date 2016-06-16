@@ -42,29 +42,29 @@ Distribuez les [Les cartes de dispositif informatique](files/Computing-Device-Ca
 
 Après quelques minutes, discuter des résultats de cette exercice avec la classe. Notez que toutes les cartes sont des types de dispositifs informatiques! Inspirez vous des réponses des élèves pour discuter de ce qui fait un ordinateur.
 
-## Main development
+## Développement principal
 
-1. Watch the official ['What is a Raspberry Pi?'](http://www.youtube.com/watch?v=e0wkVVVLvR8) animation.
+1. Regardez l'animation officielle ['Qu'est ce qu'un Raspberry Pi?'](http://www.youtube.com/watch?v=e0wkVVVLvR8).
 
-1. Start with all the parts of the Raspberry Pi on a table:
+1. Commencez avec toutes les parties du Raspberry Pi sur une table:
 
-	- keyboard
-	- mouse
-	- SD memory card
-	- power supply
-	- monitor
-	- monitor cable
+	- clavier
+	- souris
+	- carte mémoire SD
+	- alimentation
+	- moniteur
+	- câble vidéo
 	- Raspberry Pi
 
-	Ask the class to name and describe each component as you connect it to the Raspberry Pi in front of them.
+	Demandez aux élèves de nommer et décrire chaque composant que vous connectez au Raspberry Pi face à eux.
 
-	Explain that these components are **hardware**. Hardware refers to the physical elements of the computer that you can see and touch. This includes what is sometimes hidden inside the case.
+	Expliquez que ces composants sont du **hardware**. Hardware se réfère aux éléments physiques de l'ordinateur que vous pouvez voir et toucher. Cela comprend ce qui est parfois caché dans le boitier.
 
-	Finally, plug in the power and watch it boot up. An alternative demonstration would be to leave out the memory card and attempt to boot the Pi, which will fail. You can then describe the memory card as something that contains instructions to tell the Raspberry Pi how to start.
+	Enfin, branchez l'alimentation et regardez-le démarrer. Une démonstration alternative serait de laisser la carte mémoire et tenter de démarrer le Pi, ce qui échouera. Vous pouvez ensuite présenter la carte mémoire comme quelque chose qui contient des instructions pour dire au Raspberry Pi comment démarrer.
 
-1. Demonstrate that the Raspberry Pi is a **standard** computer by opening up some applications and closing them again. If you are able to connect the Raspberry Pi via a network connection, then open up a web browser and surf to several different sites.
+1. Démontrez que le Raspberry Pi est un ordinateur **standard** en ouvrant et fermant certaines applications. Si vous êtes en mesure de connecter le Raspberry Pi via une connexion réseau, ouvrez un navigateur Web et surfez sur plusieurs sites.
 
-	Explain that this is software. Software is the term given to programs that run on the computer system and make the hardware work. Software has many uses, such as making a calculation or organising files. There are two main types of software: system software which runs and manages your computer, and application software which performs a specific task or function.
+	Expliquez que ceci est un logiciel. Le logiciel est le terme donné à des programmes qui fonctionnent sur le système informatique et font fonctionner le matériel. Le logiciel a de nombreuses utilisations, telles que la réalisation d'un calcul ou l'organisation des fichiers. Il existe deux principaux types de logiciels: le logiciel système qui fonctionne et gère votre ordinateur, et le logiciel d'application qui effectue une tâche ou une fonction spécifique.
 
 1. Distribute equipment to students and ask them to set up their own Raspberry Pis. Distribute the power supplies last, checking that students have connected their cables and SD cards correctly before they are powered up.
 
