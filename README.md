@@ -9,7 +9,7 @@ Cette leçon a été conçue comme une présentation initiale du Raspberry Pi. L
 Dans cette leçon, l'élève découvre
 
 - Ce que c'est un Raspberry Pi
-- Ses fonctionnnalités principales
+- Ses fonctionnalités principales
 - Comment mettre en route et se servir d'un Raspberry Pi
 
 ## Cycles d'études adaptés :
