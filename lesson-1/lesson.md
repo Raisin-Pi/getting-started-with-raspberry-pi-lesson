@@ -77,11 +77,9 @@ Après quelques minutes, discuter des résultats de cette exercice avec la class
 
 	Notez que les étudiants ne verront pas de texte lors de la saisie du mot de passe, mais assuez-les qu'il fonctionne. Pourquoi pensent-ils que cela soit ainsi ? *Astuce: ce qui pourrait arriver si quelqu'un regardait par-dessus leur épaule?*
 
-	Une fois connecté, expliquez aux élèves qu'ils peuvent donner des instructions au Raspberry Pi en utilisant l'**interface de ligne de commande**.
+	Si vous utilisez la dernière version du logiciel, vous pouvez allez directement dans l'environnement du bureau ou l'**Interface Utilisateur Graphique**. Si vous utilisez une version plus ancienne, il faudra charger l'interface utilisateur graphique (GUI) en tapant `startx`. Expliquez aux élèves qu'ils ont maintenant chargé l'**Interface utilisateur graphique** (GUI) du système d'exploitation. Une fois connecté, expliquez aux élèves qu'ils peuvent donner des instructions au Raspberry Pi en utilisant l'**interface de ligne de commande** au lieu de GUI.
 
-1. Charger l'interface utilisateur graphique en tapant `startx`.
-
-	Expliquez aux élèves qu'ils ont maintenant chargé l'**Interface utilisateur graphique** ou GUI du système d'exploitation. Demandez-leur d'identifier toutes les parties qu'ils reconnaissent comme le bureau, la barre des tâches, le système de menu, le pointeur de la souris, les icônes, etc.. Demandez aux élèves d'ouvrir la fênetre `Terminal` en cliquant sur **Menu**, **Accessoires** et **Terminal**. C'est à quoi ressemble l'**interface de ligne de commande**. Demandez aux élèves d'essayer différentes commandes comme `ls` pour lister des fichiers et des répértoires* et `cd`pour changer entre les différents répertoires. 
+1. Demandez-leur d'identifier toutes les parties qu'ils reconnaissent comme le bureau, la barre des tâches, le système de menu, le pointeur de la souris, les icônes, etc.. Demandez aux élèves d'ouvrir la fênetre `Terminal` en cliquant sur **Menu**, **Accessoires** et **Terminal**. C'est à quoi ressemble l'**interface de ligne de commande**. Demandez aux élèves d'essayer différentes commandes comme `ls` pour lister des fichiers et des répértoires* et `cd`pour changer entre les différents répertoires. 
 
 1. Pour aller plus loin, demandez aux élèves de comparer un Raspberry Pi à un ordinateur de bureau. Quelles sont les similitudes? Quelles sont les différences? Dans quelles situations pourriez-vous utiliser un Raspberry Pi au lieu d'un ordinateur de bureau? (Par exemple dans une station météorologique)
 
