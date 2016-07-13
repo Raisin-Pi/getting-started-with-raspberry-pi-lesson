@@ -38,7 +38,7 @@ Nous allons discuter de la nature générale de l'informatique et comment le mê
 
 ## Débuter
 
-Distribuez les [Les cartes de dispositif informatique](files/Computing-Device-Card-Sort.zip) à des paires d'étudiants. Demandez-leur de faire correspondre le dispositif à la description. Ensuite, demandez aux élèves de créer deux piles: une pour les dispositifs qu'ils jugent comme un type d'ordinateur, et un pour les appareils qu'ils ne pensent pas être des types d'ordinateurs.
+Distribuez les [cartes de dispositif informatique](files/Computing-Device-Card-Sort.zip) à des paires d'étudiants. Demandez-leur de faire correspondre le dispositif à la description. Ensuite, demandez aux élèves de créer deux piles: une pour les dispositifs qu'ils jugent comme un type d'ordinateur, et un pour les appareils qu'ils ne pensent pas être des types d'ordinateurs.
 
 Après quelques minutes, discuter des résultats de cette exercice avec la classe. Notez que toutes les cartes sont des types de dispositifs informatiques! Inspirez vous des réponses des élèves pour discuter de ce qui fait un ordinateur.
 
