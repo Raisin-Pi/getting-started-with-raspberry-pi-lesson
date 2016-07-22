@@ -38,9 +38,9 @@ Nous allons discuter de la nature générale de l'informatique et comment le mê
 
 ## Débuter
 
-Distribuez les [cartes de dispositif informatique](files/Computing-Device-Card-Sort.zip) à des paires d'étudiants. Demandez-leur de faire correspondre le dispositif à la description. Ensuite, demandez aux élèves de créer deux piles: une pour les dispositifs qu'ils jugent comme un type d'ordinateur, et un pour les appareils qu'ils ne pensent pas être des types d'ordinateurs.
+Distribuez les [cartes de dispositif informatique](files/Computing-Device-Card-Sort.zip) à des paires d'étudiants. Demandez-leur de faire correspondre le dispositif à la description. Ensuite, demandez aux enfants de créer deux piles: une pour les dispositifs qu'ils jugent comme un type d'ordinateur, et un pour les appareils qu'ils ne pensent pas être des types d'ordinateurs.
 
-Après quelques minutes, discuter des résultats de cette exercice avec la classe. Notez que toutes les cartes sont des types de dispositifs informatiques! Inspirez vous des réponses des élèves pour discuter de ce qui fait un ordinateur.
+Après quelques minutes, discuter des résultats de cette exercice avec la classe. Notez que toutes les cartes sont des types de dispositifs informatiques! Inspirez vous des réponses des enfants pour discuter de ce qui fait un ordinateur.
 
 ## Développement principal
 
@@ -56,7 +56,7 @@ Après quelques minutes, discuter des résultats de cette exercice avec la class
 	- câble vidéo
 	- Raspberry Pi
 
-	Demandez aux élèves de nommer et décrire chaque composant que vous connectez au Raspberry Pi face à eux.
+	Demandez aux enfants de nommer et décrire chaque composant que vous connectez au Raspberry Pi face à eux.
 
 	Expliquez que ces composants sont du **hardware**. Hardware se réfère aux éléments physiques de l'ordinateur que vous pouvez voir et toucher. Cela comprend ce qui est parfois caché dans le boitier.
 
@@ -66,9 +66,9 @@ Après quelques minutes, discuter des résultats de cette exercice avec la class
 
 	Expliquez que ceci est un logiciel. Le logiciel est le terme donné à des programmes qui fonctionnent sur le système informatique et font fonctionner le matériel. Le logiciel a de nombreuses utilisations, telles que la réalisation d'un calcul ou l'organisation des fichiers. Il existe deux principaux types de logiciels: le logiciel système qui fonctionne et gère votre ordinateur, et le logiciel d'application qui effectue une tâche ou une fonction spécifique.
 
-1. Distribuez le matériel aux élèves et leur demander de mettre en place leur propre Raspberry Pi. Distribuez les alimentations à la fin, vérifier que les élèves aient relié leurs câbles et cartes SD correctement avant qu'ils ne soient mis sous tension.
+1. Distribuez le matériel aux enfants et leur demander de mettre en place leur propre Raspberry Pi. Distribuez les alimentations à la fin, vérifier que les enfants aient relié leurs câbles et cartes SD correctement avant qu'ils ne soient mis sous tension.
 
-1. Demandez aux élèves de se connecter à leur Pis pour la première fois en utilisant les informations d'identification suivantes:
+1. Demandez aux enfants de se connecter à leur Pis pour la première fois en utilisant les informations d'identification suivantes:
 
 	```
 	Login: pi
@@ -77,15 +77,15 @@ Après quelques minutes, discuter des résultats de cette exercice avec la class
 
 	Notez que les étudiants ne verront pas de texte lors de la saisie du mot de passe, mais assuez-les qu'il fonctionne. Pourquoi pensent-ils que cela soit ainsi ? *Astuce: ce qui pourrait arriver si quelqu'un regardait par-dessus leur épaule?*
 
-	Si vous utilisez la dernière version du logiciel, vous pouvez allez directement dans l'environnement du bureau ou l'**Interface Utilisateur Graphique**. Si vous utilisez une version plus ancienne, il faudra charger l'interface utilisateur graphique (GUI) en tapant `startx`. Expliquez aux élèves qu'ils ont maintenant chargé l'**Interface utilisateur graphique** (GUI) du système d'exploitation. Une fois connecté, expliquez aux élèves qu'ils peuvent donner des instructions au Raspberry Pi en utilisant l'**interface de ligne de commande** au lieu de GUI.
+	Si vous utilisez la dernière version du logiciel, vous pouvez allez directement dans l'environnement du bureau ou l'**Interface Utilisateur Graphique**. Si vous utilisez une version plus ancienne, il faudra charger l'interface utilisateur graphique (GUI) en tapant `startx`. Expliquez aux enfants qu'ils ont maintenant chargé l'**Interface utilisateur graphique** (GUI) du système d'exploitation. Une fois connecté, expliquez aux enfants qu'ils peuvent donner des instructions au Raspberry Pi en utilisant l'**interface de ligne de commande** au lieu de GUI.
 
-1. Demandez-leur d'identifier toutes les parties qu'ils reconnaissent comme le bureau, la barre des tâches, le système de menu, le pointeur de la souris, les icônes, etc.. Demandez aux élèves d'ouvrir la fênetre `Terminal` en cliquant sur **Menu**, **Accessoires** et **Terminal**. C'est à quoi ressemble l'**interface de ligne de commande**. Demandez aux élèves d'essayer différentes commandes comme `ls` pour lister des fichiers et des répértoires* et `cd`pour changer entre les différents répertoires. 
+1. Demandez-leur d'identifier toutes les parties qu'ils reconnaissent comme le bureau, la barre des tâches, le système de menu, le pointeur de la souris, les icônes, etc.. Demandez aux enfants d'ouvrir la fênetre `Terminal` en cliquant sur **Menu**, **Accessoires** et **Terminal**. C'est à quoi ressemble l'**interface de ligne de commande**. Demandez aux enfants d'essayer différentes commandes comme `ls` pour lister des fichiers et des répértoires* et `cd`pour changer entre les différents répertoires. 
 
-1. Pour aller plus loin, demandez aux élèves de comparer un Raspberry Pi à un ordinateur de bureau. Quelles sont les similitudes? Quelles sont les différences? Dans quelles situations pourriez-vous utiliser un Raspberry Pi au lieu d'un ordinateur de bureau? (Par exemple dans une station météorologique)
+1. Pour aller plus loin, demandez aux enfants de comparer un Raspberry Pi à un ordinateur de bureau. Quelles sont les similitudes? Quelles sont les différences? Dans quelles situations pourriez-vous utiliser un Raspberry Pi au lieu d'un ordinateur de bureau? (Par exemple dans une station météorologique)
 
 ## Plénière
 
-Les élèves doivent étiqueter un Raspberry Pi pour décrire:
+Les enfants doivent étiqueter un Raspberry Pi pour décrire:
 
 - toutes les entrées (et où elles se connectent au Pi)
 - toutes les sorties (et où ils se connectent au Pi)
