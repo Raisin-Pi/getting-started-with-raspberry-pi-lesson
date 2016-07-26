@@ -4,9 +4,9 @@
 
 Cette leçon a été conçue comme une présentation initiale du Raspberry Pi. La leçon peut être enseignée comme un cours à part entière, comme une démonstration, un atelier ou en tant qu'élément d'un plan de travail plus large pour que les eleves se familiarisent avec le Raspberry Pi, afin d'expliquer ses fonctionnalités principales et sa mise en route. 
 
-## Les élèves découvriront :
+## Les enfants découvriront :
 
-Dans cette leçon, l'élève découvre
+Dans cette leçon, l'enfant découvre
 
 - Ce que c'est un Raspberry Pi
 - Ses fonctionnalités principales
@@ -27,9 +27,9 @@ Dans cette leçon, l'élève découvre
 
 ## Ressources
 
-Pour la grande partie de cette leçon, il est conseillé que le travail se fasse en binome avec un Raspberry Pi. Chaque paire d'élèves devrait avoir accès au matériel standard décrit ci-dessous. En plus, il est suggéré d'avoir votre propre installation de professeur reliée à un projecteur et écran pour pouvoir faire des démonstrations.
+Pour la grande partie de cette leçon, il est conseillé que le travail se fasse en binome avec un Raspberry Pi. Chaque paire d'enfants devrait avoir accès au matériel standard décrit ci-dessous. En plus, il est suggéré d'avoir votre propre installation d'animateur reliée à un projecteur et écran pour pouvoir faire des démonstrations.
 
-- Un Raspberry Pi pour deux élèves
+- Un Raspberry Pi pour deux enfants
 - Une carte (micro) SD NOOBS par Raspberry Pi (avec une version à jour de Raspbian installée)
 - Un clavier et une souris branchés sur chaque Raspberry Pi
 - Un écran connecté à chaque Raspberry Pi
