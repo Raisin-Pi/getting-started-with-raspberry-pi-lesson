@@ -12,19 +12,19 @@ Nous allons discuter de la nature générale de l'informatique et comment le mê
 
 ## Connaissances acquises
 
-**Tous les étudiants sont en mesure de :**
+**Tous les enfants sont en mesure de :**
 
-- Branchez les composants d'un Raspberry Pi.
+- Brancher les composants d'un Raspberry Pi.
 - Comprendre que les ordinateurs sont des appareils à usage général, et que chaque ordinateur est différent.
 - Identifier l'architecture de base d'un ordinateur: processeur, stockage et les entrées/sorties.
 
-**La plupart des étudiants sont en mesure de:**
+**La plupart des enfants sont en mesure de:**
 
 - Installer un Raspberry Pi pour la première fois, se connecter, et charger l'interface utilisateur graphique.
 - Identifier les différents types d'ordinateurs et d'expliquer ce qui en fait des ordinateurs.
 - Identifier l'architecture de base d'un ordinateur: processeur, stockage et les entrées/sorties.
 
-**Certains étudiants sont en mesure de:**
+**Certains enfants sont en mesure de:**
 
 - Installer un Raspberry Pi, se connecter, et charger l'interface utilisateur graphique sans assistance.
 - Expliquer, avec des exemples, les similitudes et les différences d'un Raspberry Pi par rapport à un ordinateur personnel.
@@ -38,13 +38,13 @@ Nous allons discuter de la nature générale de l'informatique et comment le mê
 
 ## Débuter
 
-Distribuez les [cartes de dispositif informatique](files/Computing-Device-Card-Sort.zip) à des paires d'étudiants. Demandez-leur de faire correspondre le dispositif à la description. Ensuite, demandez aux enfants de créer deux piles: une pour les dispositifs qu'ils jugent comme un type d'ordinateur, et un pour les appareils qu'ils ne pensent pas être des types d'ordinateurs.
+Distribuez les [cartes de dispositif informatique](files/Computing-Device-Card-Sort.zip) à des paires d'enfants. Demandez-leur de faire correspondre le dispositif à la description. Ensuite, demandez aux enfants de créer deux piles: une pour les dispositifs qu'ils jugent comme un type d'ordinateur, et un pour les appareils qu'ils ne pensent pas être des types d'ordinateurs.
 
 Après quelques minutes, discuter des résultats de cette exercice avec la classe. Notez que toutes les cartes sont des types de dispositifs informatiques! Inspirez vous des réponses des enfants pour discuter de ce qui fait un ordinateur.
 
 ## Développement principal
 
-1. Regardez l'animation officielle ['Qu'est ce qu'un Raspberry Pi?'](http://www.youtube.com/watch?v=e0wkVVVLvR8).
+1. Regardez l'animation officielle en anglais si les enfants sont capables de comprendre ['Qu'est ce qu'un Raspberry Pi?'](http://www.youtube.com/watch?v=e0wkVVVLvR8).
 
 1. Commencez avec toutes les parties du Raspberry Pi sur une table:
 
