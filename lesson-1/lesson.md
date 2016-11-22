@@ -75,7 +75,7 @@ Après quelques minutes, discuter des résultats de cette exercice avec la class
 	password: raspberry
 	```
 
-	Notez que les étudiants ne verront pas de texte lors de la saisie du mot de passe, mais assuez-les qu'il fonctionne. Pourquoi pensent-ils que cela soit ainsi ? *Astuce: ce qui pourrait arriver si quelqu'un regardait par-dessus leur épaule?*
+	Notez que les enfants ne verront pas de texte lors de la saisie du mot de passe, mais assurez-les qu'il fonctionne. Pourquoi pensent-ils que cela soit ainsi ? *Astuce: ce qui pourrait arriver si quelqu'un regardait par-dessus leur épaule?*
 
 	Si vous utilisez la dernière version du logiciel, vous pouvez allez directement dans l'environnement du bureau ou l'**Interface Utilisateur Graphique**. Si vous utilisez une version plus ancienne, il faudra charger l'interface utilisateur graphique (GUI) en tapant `startx`. Expliquez aux enfants qu'ils ont maintenant chargé l'**Interface utilisateur graphique** (GUI) du système d'exploitation. Une fois connecté, expliquez aux enfants qu'ils peuvent donner des instructions au Raspberry Pi en utilisant l'**interface de ligne de commande** au lieu de GUI.
 
