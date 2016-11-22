@@ -85,7 +85,7 @@ Après quelques minutes, discuter des résultats de cette exercice avec la class
 
 ## Plénière
 
-Les enfants doivent étiqueter un Raspberry Pi pour décrire:
+Les enfants étiquetent un Raspberry Pi pour décrire:
 
 - toutes les entrées (et où elles se connectent au Pi)
 - toutes les sorties (et où ils se connectent au Pi)
