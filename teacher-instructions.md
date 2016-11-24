@@ -9,7 +9,7 @@ Pour cette leçon, les élèves devront avoir accès à:
 
 ## Téléchargement et installation de NOOBS
 
-Les instructions pour [le téléchargement et l'installation de NOOBS peut être lu ici](https://github.com/raspberrypi/documentation/blob/master/installation/noobs.md).
+Les instructions pour [le téléchargement et l'installation de NOOBS peuvent être lu ici](https://github.com/raspberrypi/documentation/blob/master/installation/noobs.md).
 
 ## Faire un jeu de cartes SD pour la classe
 
