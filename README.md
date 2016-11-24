@@ -2,7 +2,7 @@
 
 ![](cover.png)
 
-Cette leçon a été conçue comme une présentation initiale du Raspberry Pi. La leçon peut être enseignée comme un cours à part entière, comme une démonstration, un atelier ou en tant qu'élément d'un plan de travail plus large pour que les eleves se familiarisent avec le Raspberry Pi, afin d'expliquer ses fonctionnalités principales et sa mise en route. 
+Cette leçon a été conçue comme une présentation initiale du Raspberry Pi. La leçon peut être enseignée comme un cours à part entière, comme une démonstration, un atelier ou en tant qu'élément d'un plan de travail plus large pour que les élèves se familiarisent avec le Raspberry Pi, afin d'expliquer ses fonctionnalités principales et sa mise en route. 
 
 ## Les enfants découvriront :
 
