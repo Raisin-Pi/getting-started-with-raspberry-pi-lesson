@@ -20,14 +20,14 @@ Dans cette leçon, l'enfant découvre
 
 ### Collège
 
-- Comprendre les éléments materiel et logiciel qui forment ensemble un système informatique/ordinateur, et comment ils communiquent entre eux et avec d'autres systèmes.
-- Reconnaitre et comprendre le fonctionnement des prinipaux composants internes dans l'architecture basique d'un ordinateur.
+- Comprendre les éléments matériel et logiciel qui forment ensemble un système informatique/ordinateur, et comment ils communiquent entre eux et avec d'autres systèmes.
+- Reconnaitre et comprendre le fonctionnement des principaux composants internes dans l'architecture basique d'un ordinateur.
 
 [Le brevet informatique et internet (B2i) école-collège-lycée et CFA : les référentiels](http://eduscol.education.fr/cid46073/b2i.html)
 
 ## Ressources
 
-Pour la grande partie de cette leçon, il est conseillé que le travail se fasse en binome avec un Raspberry Pi. Chaque paire d'enfants devrait avoir accès au matériel standard décrit ci-dessous. En plus, il est suggéré d'avoir votre propre installation d'animateur reliée à un projecteur et écran pour pouvoir faire des démonstrations.
+Pour la grande partie de cette leçon, il est conseillé que le travail se fasse en binôme avec un Raspberry Pi. Chaque paire d'enfants devrait avoir accès au matériel standard décrit ci-dessous. En plus, il est suggéré d'avoir votre propre installation d'animateur reliée à un projecteur et écran pour pouvoir faire des démonstrations.
 
 - Un Raspberry Pi pour deux enfants
 - Une carte (micro) SD NOOBS par Raspberry Pi (avec une version à jour de Raspbian installée)
